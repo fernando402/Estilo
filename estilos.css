@@ -1,0 +1,48 @@
+/*  */
+/*Agregar la etiqueta sobre lo que voy a trabajar 
+y sus modificaciones van dentro de una curly braces*/
+
+h1{
+    /*Primero la propiedad a cambiar y posteriormente el valor
+    finalizo en ; */
+    color: red;
+}
+
+p{
+    color: blue;
+    font-size: 20pt;
+}
+
+/* Selectores */
+
+/* Selectores ID*/
+#ejemplo-h1{
+    color: burlywood;
+    font-size: 30;
+}
+
+/* Selectores Clase*/
+.euro{
+    color: pink;
+    font-size: 20pt;
+}
+
+.latam{
+    color: yellow;
+    font-size: 30pt;
+}
+
+.fut-llanero{
+    color: red;
+    font-size: 40pt;
+}
+
+/* Selectores Universal*/
+
+*#warning {
+
+}
+
+*.warning {
+    
+}
